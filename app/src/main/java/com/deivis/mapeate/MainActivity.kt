@@ -92,6 +92,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
 
     override fun onRequestPermissionsResult(
         requestCode: Int,
+
         permissions: Array<out String>,
         grantResults: IntArray
     ) {
